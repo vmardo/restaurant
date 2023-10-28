@@ -12,5 +12,7 @@ Este es un proyecto de Restaurant interactivo creado con HTML, CSS ,JavaScript,R
     Bootstrap:Para estilizar y dar formato a la pagina 
     FirestoreDatabase: Es un servicio de base de datos en tiempo real.
 
-link :
+
     Netlif: https://restaurantsushi2023.netlify.app/
+    Github: https://github.com/vmardo/restaurant
+    
