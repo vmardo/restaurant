@@ -9,7 +9,7 @@ Este es un proyecto de Restaurant interactivo creado con HTML, CSS ,JavaScript,R
     CSS: Para estilizar y dar formato a la página.
     JavaScript: Para dar funcionalidad la pagina web.
     React:Se utiliza principalmente para crear la capa de presentación de una pagina web.
-    Bootstrap:Para estilizar y dar formato a la pagina 
+    Bootstrap:Para estilizar y dar formato a la pagina web.
     FirestoreDatabase: Es un servicio de base de datos en tiempo real.
 
 
